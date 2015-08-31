@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+     "Its perfect when we want to share our projects with others, so our work can be accessed over Github. It is also great to store it remotely when we want to do a quick backup. And last but not least, its useful when we want to access our work other than from our local machine."
